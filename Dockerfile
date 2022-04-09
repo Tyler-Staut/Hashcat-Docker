@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM ubuntu:focal
 
 LABEL maintainer="Tyler Staut"
 
